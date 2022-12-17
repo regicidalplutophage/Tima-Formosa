@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "C:/Users/User/Desktop/kb/00mine/44diodeless/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "custom_fp")(type "KiCad")(uri "C:/Users/User/Desktop/kb/00mine/Geryonia Proboscidalis/custom_fp.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/User/Desktop/kb/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "C:/Users/User/Desktop/kb/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "C:/Users/User/Desktop/kb/keyswitch-kicad-library-main/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
+)

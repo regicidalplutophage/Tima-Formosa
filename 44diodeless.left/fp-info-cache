@@ -1,0 +1,127 @@
+30012476838255
+custom_fp
+4p4c-95001
+RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf
+RJ12 connector
+0
+4
+4
+custom_fp
+4p4c-95001-reversible
+RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf
+RJ12 connector
+0
+8
+4
+custom_fp
+I2C_Breakout
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+custom_fp
+MX_hotswap+soldered
+Kailh keyswitch Hotswap Socket
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout
+0
+4
+2
+custom_fp
+OLED
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+custom_fp
+OLED_1side
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+custom_fp
+RPi_Pico_TH_oval_face_down
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+custom_fp
+RPi_Pico_TH_oval_face_up
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+custom_fp
+RPi_Pico_TH_oval_round_offset_face_down
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+custom_fp
+RPi_Pico_TH_round_face_down
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+custom_fp
+SCHOTTKY_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+custom_fp
+Standoff
+Mounting Hole 3.2mm, no annular, M3, DIN965
+mounting hole 3.2mm no annular m3 din965
+0
+0
+0
+custom_fp
+geryonia_proboscidalis
+
+
+0
+0
+0
+custom_fp
+jumper_3_way_short
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+3
+3
+custom_fp
+schottky_bypass_down
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+custom_fp
+schottky_bypass_long
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+custom_fp
+schottky_bypass_tall
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+custom_fp
+schottky_bypass_up
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
